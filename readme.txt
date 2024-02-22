@@ -19,7 +19,7 @@ Step:2
  Install all extensions reg.kivy
 
  Rules:
- #1. extension for kivy .ki
+ #1. extension for kivy .kv
  #2. name must be your app class name - builder
  #3. KivyApp  kivy.kv
  #4. file name should be in lower case
